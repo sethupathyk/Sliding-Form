@@ -1,2 +1,3 @@
 # Sliding-Form
-Sign In/ Sign Up Form that that slides by users option
+UI of Sign In/ Sign Up
+The sign up/in column slides over by clicking on it  
