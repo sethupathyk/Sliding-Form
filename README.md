@@ -1,2 +1,2 @@
 # Sliding-Form
-UI of Sign In/ Sign Up //(The sign up/in column slides over by clicking on it)  
+Sliding form for sign in/up //(The sign up/in column slides over by clicking on it)  
